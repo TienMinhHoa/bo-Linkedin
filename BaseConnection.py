@@ -42,7 +42,7 @@ class GetConnect:
         try:
             tmp_element = self.driver.find_element(by,key)
             self.element = tmp_element
-            return 1
+            return tmp_element
         except Exception as e:
             log("Cannot find the element "+key)
             log(e)

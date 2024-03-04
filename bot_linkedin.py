@@ -14,7 +14,8 @@ def ConnectToLinkedin():
 def ClickButton(source,connection,by):
     ## Click on the post button
     try:
-        connection.findElement(by,source)
+        element = connection.findElement(by,source)
+        connection.driver.execute_script("arguments[0].click();", element)
         connection.element.click()
     except Exception as e:
         log(e)

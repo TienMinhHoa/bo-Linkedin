@@ -303,3 +303,228 @@ Stacktrace:
 2024-03-03 16:18:38.322046: 'NoneType' object has no attribute 'click'
 2024-03-03 16:20:01.288322: Start
 2024-03-03 16:20:16.789989: Logged in!
+2024-03-04 23:27:38.715157: Start
+2024-03-04 23:27:58.434003: Logged in!
+2024-03-04 23:28:01.458959: 'WebDriver' object has no attribute 'excecute_script'
+2024-03-04 23:28:04.480693: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[2]/div/div/span/button/span
+2024-03-04 23:28:04.483729: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[2]/div/div/span/button/span"}
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E898ED]
+	(No symbol) [0x00007FF6A6E89A2C]
+	(No symbol) [0x00007FF6A6ECA967]
+	(No symbol) [0x00007FF6A6EABCDF]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:28:04.484697: 'WebDriver' object has no attribute 'excecute_script'
+2024-03-04 23:28:07.507096: Cannot find the element media-editor-file-selector__file-input
+2024-03-04 23:28:07.511101: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="media-editor-file-selector__file-input"]"}
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E898ED]
+	(No symbol) [0x00007FF6A6E89A2C]
+	(No symbol) [0x00007FF6A6ECA967]
+	(No symbol) [0x00007FF6A6EABCDF]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:28:10.688653: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div/button[2]
+2024-03-04 23:28:10.691657: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div/button[2]"}
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E898ED]
+	(No symbol) [0x00007FF6A6E89A2C]
+	(No symbol) [0x00007FF6A6ECA967]
+	(No symbol) [0x00007FF6A6EABCDF]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:28:10.694656: 'WebDriver' object has no attribute 'excecute_script'
+2024-03-04 23:28:13.717145: Cannot find the element ql-editor
+2024-03-04 23:28:13.721146: Message: no such element: Unable to locate element: {"method":"css selector","selector":".ql-editor"}
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E898ED]
+	(No symbol) [0x00007FF6A6E89A2C]
+	(No symbol) [0x00007FF6A6ECA967]
+	(No symbol) [0x00007FF6A6EABCDF]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:28:16.868584: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div[4]/div/div[2]/button
+2024-03-04 23:28:16.869577: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div[4]/div/div[2]/button"}
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E898ED]
+	(No symbol) [0x00007FF6A6E89A2C]
+	(No symbol) [0x00007FF6A6ECA967]
+	(No symbol) [0x00007FF6A6EABCDF]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:28:16.871578: 'WebDriver' object has no attribute 'excecute_script'
+2024-03-04 23:28:47.737888: Start
+2024-03-04 23:29:17.042806: Logged in!
+2024-03-04 23:29:21.208858: Message: element click intercepted: Element <button id="ember26" class="artdeco-button artdeco-button--muted artdeco-button--4 artdeco-button--tertiary ember-view share-box-feed-entry__trigger">...</button> is not clickable at point (508, 112). Other element would receive the click: <h2 id="share-to-linkedin-modal__header">...</h2>
+  (Session info: chrome=122.0.6261.95)
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E90A80]
+	(No symbol) [0x00007FF6A6E8E8AB]
+	(No symbol) [0x00007FF6A6E8C0B4]
+	(No symbol) [0x00007FF6A6E8AE45]
+	(No symbol) [0x00007FF6A6E7F798]
+	(No symbol) [0x00007FF6A6EABC9A]
+	(No symbol) [0x00007FF6A6E7F09A]
+	(No symbol) [0x00007FF6A6EABEB0]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:29:24.306659: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E49261]
+	(No symbol) [0x00007FF6A6E4B6EB]
+	(No symbol) [0x00007FF6A6E4B7B0]
+	(No symbol) [0x00007FF6A6E8B705]
+	(No symbol) [0x00007FF6A6E7F526]
+	(No symbol) [0x00007FF6A6EABC9A]
+	(No symbol) [0x00007FF6A6E7F09A]
+	(No symbol) [0x00007FF6A6EABEB0]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-04 23:29:30.516196: Message: stale element reference: stale element not found
+  (Session info: chrome=122.0.6261.95); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#stale-element-reference-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF6A701AD22+56930]
+	(No symbol) [0x00007FF6A6F8F622]
+	(No symbol) [0x00007FF6A6E442E5]
+	(No symbol) [0x00007FF6A6E49261]
+	(No symbol) [0x00007FF6A6E4B6EB]
+	(No symbol) [0x00007FF6A6E4B7B0]
+	(No symbol) [0x00007FF6A6E8B705]
+	(No symbol) [0x00007FF6A6E7F526]
+	(No symbol) [0x00007FF6A6EABC9A]
+	(No symbol) [0x00007FF6A6E7F09A]
+	(No symbol) [0x00007FF6A6EABEB0]
+	(No symbol) [0x00007FF6A6EC81E2]
+	(No symbol) [0x00007FF6A6EABA43]
+	(No symbol) [0x00007FF6A6E7D438]
+	(No symbol) [0x00007FF6A6E7E4D1]
+	GetHandleVerifier [0x00007FF6A7396AAD+3709933]
+	GetHandleVerifier [0x00007FF6A73EFFED+4075821]
+	GetHandleVerifier [0x00007FF6A73E817F+4043455]
+	GetHandleVerifier [0x00007FF6A70B9756+706710]
+	(No symbol) [0x00007FF6A6F9B8FF]
+	(No symbol) [0x00007FF6A6F96AE4]
+	(No symbol) [0x00007FF6A6F96C3C]
+	(No symbol) [0x00007FF6A6F868F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
