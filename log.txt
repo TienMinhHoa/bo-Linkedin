@@ -1,0 +1,305 @@
+time.struct_time(tm_year=2024, tm_mon=3, tm_mday=3, tm_hour=16, tm_min=11, tm_sec=25, tm_wday=6, tm_yday=63, tm_isdst=0): Start
+time.struct_time(tm_year=2024, tm_mon=3, tm_mday=3, tm_hour=16, tm_min=11, tm_sec=44, tm_wday=6, tm_yday=63, tm_isdst=0): Logged in!
+2024-03-03 16:13:12.329350: Start
+2024-03-03 16:13:42.577463: Logged in!
+2024-03-03 16:15:01.531229: Start
+2024-03-03 16:15:23.778089: Logged in!
+2024-03-03 16:15:26.779877: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:29.780860: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:32.783638: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:35.785507: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:38.786811: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:41.788159: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:15:55.790051: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=122.0.6261.94)
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D5419D]
+	(No symbol) [0x00007FF758D41D68]
+	(No symbol) [0x00007FF758D40625]
+	(No symbol) [0x00007FF758D410AF]
+	(No symbol) [0x00007FF758D4DF3E]
+	(No symbol) [0x00007FF758D6009E]
+	(No symbol) [0x00007FF758D64E5A]
+	(No symbol) [0x00007FF758D41600]
+	(No symbol) [0x00007FF758D5FC34]
+	(No symbol) [0x00007FF758DD8540]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:15:55.793050: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=122.0.6261.94)
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D4191F]
+	(No symbol) [0x00007FF758D41490]
+	(No symbol) [0x00007FF758D56411]
+	(No symbol) [0x00007FF758DD78B9]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:16:01.197710: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:04.199699: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:07.201410: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:10.203771: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:13.204774: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:16.205793: 'GetConnect' object has no attribute 'findElements'
+2024-03-03 16:16:29.053165: Message: target frame detached
+  (failed to check if window was closed: disconnected: Unable to receive message from renderer)
+  (Session info: chrome=122.0.6261.94)
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D5419D]
+	(No symbol) [0x00007FF758D41D68]
+	(No symbol) [0x00007FF758D40625]
+	(No symbol) [0x00007FF758D410AF]
+	(No symbol) [0x00007FF758D4DF3E]
+	(No symbol) [0x00007FF758D6009E]
+	(No symbol) [0x00007FF758D64E5A]
+	(No symbol) [0x00007FF758D41600]
+	(No symbol) [0x00007FF758D5FC34]
+	(No symbol) [0x00007FF758DD8540]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:16:29.075167: Message: disconnected: not connected to DevTools
+  (failed to check if window was closed: disconnected: not connected to DevTools)
+  (Session info: chrome=122.0.6261.94)
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D4191F]
+	(No symbol) [0x00007FF758D41490]
+	(No symbol) [0x00007FF758D56411]
+	(No symbol) [0x00007FF758DD78B9]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:16:41.996129: Start
+2024-03-03 16:16:45.904863: Message: no such window: target window already closed
+from unknown error: web view not found
+  (Session info: chrome=122.0.6261.94)
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D31D4C]
+	(No symbol) [0x00007FF758DC23F7]
+	(No symbol) [0x00007FF758DD7891]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:16:53.675477: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:16:56.677753: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:16:59.679169: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:02.681025: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:05.684360: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:08.685804: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:21.700155: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:24.701686: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:27.704453: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:30.993210: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:33.994576: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:17:37.183095: 'GetConnect' object has no attribute 'findElement'
+2024-03-03 16:18:03.952461: Start
+2024-03-03 16:18:20.190044: Logged in!
+2024-03-03 16:18:23.207482: 'int' object has no attribute 'click'
+2024-03-03 16:18:26.225407: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[2]/div/div/span/button/span
+2024-03-03 16:18:26.227408: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div[2]/div[2]/div[1]/div/section/div[2]/ul/li[2]/div/div/span/button/span"}
+  (Session info: chrome=122.0.6261.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D998ED]
+	(No symbol) [0x00007FF758D99A2C]
+	(No symbol) [0x00007FF758DDA967]
+	(No symbol) [0x00007FF758DBBCDF]
+	(No symbol) [0x00007FF758DD81E2]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:18:26.227408: 'NoneType' object has no attribute 'click'
+2024-03-03 16:18:29.248049: Cannot find the element media-editor-file-selector__file-input
+2024-03-03 16:18:29.251052: Message: no such element: Unable to locate element: {"method":"css selector","selector":"[id="media-editor-file-selector__file-input"]"}
+  (Session info: chrome=122.0.6261.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D998ED]
+	(No symbol) [0x00007FF758D99A2C]
+	(No symbol) [0x00007FF758DDA967]
+	(No symbol) [0x00007FF758DBBCDF]
+	(No symbol) [0x00007FF758DD81E2]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:18:29.252058: 'NoneType' object has no attribute 'send_keys'
+2024-03-03 16:18:32.269488: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div/button[2]
+2024-03-03 16:18:32.271485: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div/button[2]"}
+  (Session info: chrome=122.0.6261.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D998ED]
+	(No symbol) [0x00007FF758D99A2C]
+	(No symbol) [0x00007FF758DDA967]
+	(No symbol) [0x00007FF758DBBCDF]
+	(No symbol) [0x00007FF758DD81E2]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:18:32.272487: 'NoneType' object has no attribute 'click'
+2024-03-03 16:18:35.290561: Cannot find the element ql-editor
+2024-03-03 16:18:35.294559: Message: no such element: Unable to locate element: {"method":"css selector","selector":".ql-editor"}
+  (Session info: chrome=122.0.6261.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D998ED]
+	(No symbol) [0x00007FF758D99A2C]
+	(No symbol) [0x00007FF758DDA967]
+	(No symbol) [0x00007FF758DBBCDF]
+	(No symbol) [0x00007FF758DD81E2]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:18:35.295559: 'NoneType' object has no attribute 'send_keys'
+2024-03-03 16:18:38.316045: Cannot find the element /html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div[4]/div/div[2]/button
+2024-03-03 16:18:38.322046: Message: no such element: Unable to locate element: {"method":"xpath","selector":"/html/body/div[3]/div/div/div/div[2]/div/div/div[2]/div[4]/div/div[2]/button"}
+  (Session info: chrome=122.0.6261.94); For documentation on this error, please visit: https://www.selenium.dev/documentation/webdriver/troubleshooting/errors#no-such-element-exception
+Stacktrace:
+	GetHandleVerifier [0x00007FF758F2AD22+56930]
+	(No symbol) [0x00007FF758E9F622]
+	(No symbol) [0x00007FF758D542E5]
+	(No symbol) [0x00007FF758D998ED]
+	(No symbol) [0x00007FF758D99A2C]
+	(No symbol) [0x00007FF758DDA967]
+	(No symbol) [0x00007FF758DBBCDF]
+	(No symbol) [0x00007FF758DD81E2]
+	(No symbol) [0x00007FF758DBBA43]
+	(No symbol) [0x00007FF758D8D438]
+	(No symbol) [0x00007FF758D8E4D1]
+	GetHandleVerifier [0x00007FF7592A6AAD+3709933]
+	GetHandleVerifier [0x00007FF7592FFFED+4075821]
+	GetHandleVerifier [0x00007FF7592F817F+4043455]
+	GetHandleVerifier [0x00007FF758FC9756+706710]
+	(No symbol) [0x00007FF758EAB8FF]
+	(No symbol) [0x00007FF758EA6AE4]
+	(No symbol) [0x00007FF758EA6C3C]
+	(No symbol) [0x00007FF758E968F4]
+	BaseThreadInitThunk [0x00007FFA5DCC7344+20]
+	RtlUserThreadStart [0x00007FFA5E5826B1+33]
+
+2024-03-03 16:18:38.322046: 'NoneType' object has no attribute 'click'
+2024-03-03 16:20:01.288322: Start
+2024-03-03 16:20:16.789989: Logged in!
