@@ -15,7 +15,7 @@
 ![image](https://github.com/TienMinhHoa/bo-Linkedin/assets/114821401/4aa9ce36-e47e-45d0-80e5-28826bf57c45)
 * Starting Row là dòng đầu tiên của list bài cần đăng
 * Ending Row là dòng cuối cùng list bài cần đăng(chú ý không được để trống 2 mục này)
-* Sau khi nhập xong 2 mục, bot sẽ lấy thông tin trong file xlsx theo quy ước như trên để bắt đầu đăng bài.
+* Sau khi nhập xong 2 mục, bấm **run**, bot sẽ lấy thông tin trong file xlsx theo quy ước như trên để bắt đầu đăng bài.
 
 
 
